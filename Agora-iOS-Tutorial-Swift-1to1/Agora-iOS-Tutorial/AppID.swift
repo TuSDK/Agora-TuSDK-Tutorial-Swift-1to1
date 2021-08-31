@@ -6,7 +6,7 @@
 //  Copyright © 2016 Agora.io. All rights reserved.
 //
 
-let AppID: String = "0ae3027d6e344e54bfb1478f430f8740"
+let AppID: String = ""
 /* assign Token to nil if you have not enabled app certificate
  * before you deploy your own token server, you can easily generate a temp token for dev use
  * at https://dashboard.agora.io note the token generated are allowed to join corresponding room ONLY.
